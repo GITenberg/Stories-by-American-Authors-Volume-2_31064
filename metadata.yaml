@@ -1,0 +1,30 @@
+_repo: Stories-by-American-Authors-Volume-2_31064
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: "The transferred ghost, by Frank R. Stockton\r\nA martyr to science,\
+  \ by Mary Putnam Jacobi\r\nMrs. Knollys, by J.S. of Dale\r\nA dinner-party, by John\
+  \ Eddy\r\nThe mount of sorrow, by Harriet Prescott Spofford\r\nSister Silvia, by\
+  \ Mary Agnes Tincker."
+title: Stories by American Authors, Volume 2
+url: http://www.gutenberg.org/ebooks/31064
